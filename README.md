@@ -1,2 +1,2 @@
-# EV_Charging_Management_2022_2023
+# EV_Charging_Management_2023_2024
 B.Tech Project
